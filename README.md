@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel A. Johnsen @Hearthwind
+- 👋 Hi, I’m Gabriel Alexander Johnsen @Hearthwind
 - 👀 I’m interested in learning to code and developing my knowledge in Python
 - 🌱 I’m currently learning Python programing
 - 💞️ I’m looking to collaborate on ...
